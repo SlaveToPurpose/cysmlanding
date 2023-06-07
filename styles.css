@@ -51,6 +51,9 @@ img {
   .column {
     width: 100%;
   }
+  .vision {
+  font-size: 10px;
+  }
 }
 
 button {
