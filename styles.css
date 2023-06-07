@@ -90,6 +90,10 @@ button {
   .mainprog .row {
     flex-direction: column;
   }
+  
+  .vision {
+    font-size: 10px;
+  }
 
   .mainprog .row .column {
     width: 100%;
@@ -99,6 +103,10 @@ button {
 @media only screen and (max-width: 643px) {
   .mainprog .heading {
     width: 100%;
+  }
+  
+  .vision {
+    font-size: 10px;
   }
 
   .mainprog .header h1 h2 {
