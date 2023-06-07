@@ -5,9 +5,8 @@ div {
 .header {
   display: block;
 }
-h2 h4 {
-font-size: 50%;
-}
+
+
 
 body {
   background: #ffffff;
@@ -96,6 +95,13 @@ button {
   .mainprog .row {
     flex-direction: column;
   }
+
+
+h2 h4 {
+
+font-size: 50%;
+
+}
   
   .vision {
     font-size: 10px;
