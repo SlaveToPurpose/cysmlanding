@@ -27,7 +27,7 @@ img {
 
 .vision {
   color: black;
-  font-size: 20%;
+  font-size: 50%;
   font-weight: lighter;
   text-align: center;
   margin-top: 10px;
@@ -112,7 +112,7 @@ button {
     font-size: 10px;
   }
 
-  .mainprog .header h1 h2 {
+  .mainprog .header {
     font-size: 1em;
 
   }
