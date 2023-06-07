@@ -5,6 +5,9 @@ div {
 .header {
   display: block;
 }
+h2 h4 {
+font-size: 50%;
+}
 
 body {
   background: #ffffff;
