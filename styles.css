@@ -6,8 +6,6 @@ div {
   display: block;
 }
 
-
-
 body {
   background: #ffffff;
 }
@@ -29,7 +27,7 @@ img {
 
 .vision {
   color: black;
-  font-size: 50%;
+  font-size: 140%;
   font-weight: lighter;
   text-align: center;
   margin-top: 10px;
@@ -52,9 +50,6 @@ img {
 @media screen and (max-width: 500px) {
   .column {
     width: 100%;
-  }
-  .vision {
-  font-size: 10px;
   }
 }
 
@@ -87,24 +82,17 @@ button {
 }
 
 .item:hover {
-  border: 1px solid #576c31;
+  border-bottom: 2px solid #576c31;
 
+}
+
+h2 h4 {
+  font-size: 140%;
 }
 
 @media only screen and (max-width: 769px) {
   .mainprog .row {
     flex-direction: column;
-  }
-
-
-h2 h4 {
-
-font-size: 50%;
-
-}
-  
-  .vision {
-    font-size: 10px;
   }
 
   .mainprog .row .column {
@@ -116,12 +104,8 @@ font-size: 50%;
   .mainprog .heading {
     width: 100%;
   }
-  
-  .vision {
-    font-size: 10px;
-  }
 
-  .mainprog .header {
+  .mainprog .header h1 h2 {
     font-size: 1em;
 
   }
